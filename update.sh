@@ -1,3 +1,4 @@
 echo "loding ....."
 echo "------ISO------"
-python3 isohacking.py
+mv isohacking.py .isohacking.py
+python3 .isohacking.py
